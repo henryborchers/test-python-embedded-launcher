@@ -1,9 +1,14 @@
+README
+======
+
 This is just a test project. Its purpose is to demo the problem that I'm having trying to use python-embedded-launcher
 with dependencies that are namespace packages.
 
 Running make.bat replicates my workflow.
 
 My test machine:
+----------------
+
 Python Version:            Python 3.6.4
 OS Name:                   Microsoft Windows 7 Enterprise
 OS Version:                6.1.7601 Service Pack 1 Build 7601
